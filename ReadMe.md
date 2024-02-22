@@ -1,9 +1,9 @@
 # 💫 About Me:
-Currently working on:<br>I'm passionate about using technology to create positive change, and I'm currently developing a project to translate sign language into spoken language. <br> This project aims to bridge the communication gap and empower individuals who use sign language.<br><br>
-Looking to collaborate on:<br>I'm always eager to connect with like-minded individuals who share my passion for innovation. I'm particularly interested in collaborating on projects <br> related to AI, machine learning, and accessible technology.<br><br>
-Currently learning:<br>I'm a lifelong learner, and I'm currently expanding my knowledge in cybersecurity and data science through self-paced courses. I'm also continuously honing my <br>skills in Python programming and exploring frameworks like React and Flutter.<br><br>
-Ask me about:<br>Feel free to ask me about my sign language translation project, my long-term vision for wearable neuro-stimulators, or <br>anything related to computer science, <br> machine learning, or aviation.<br><br>
-Fun fact:<br>"While I'm deeply immersed in the world of technology, I also have a strong interest in aviation and aspire to become a pilot someday. This unique blend of passions<br> fuels my creativity and motivates me to explore the intersection of technology and human potential.
+Currently working on:<br>I'm passionate about using technology to create positive change, and I'm currently developing a project to translate sign language into spoken language. This project aims to bridge the communication gap and empower individuals who use sign language.<br><br>
+Looking to collaborate on:<br>I'm always eager to connect with like-minded individuals who share my passion for innovation. I'm particularly interested in collaborating on projects related to AI, machine learning, and accessible technology.<br><br>
+Currently learning:<br>I'm a lifelong learner, and I'm currently expanding my knowledge in cybersecurity and data science through self-paced courses. I'm also continuously honing my skills in Python programming and exploring frameworks like React and Flutter.<br><br>
+Ask me about:<br>Feel free to ask me about my sign language translation project, my long-term vision for wearable neuro-stimulators, or <br>anything related to computer science, machine learning, or aviation.<br><br>
+Fun fact:<br>"While I'm deeply immersed in the world of technology, I also have a strong interest in aviation and aspire to become a pilot someday. This unique blend of passions fuels my creativity and motivates me to explore the intersection of technology and human potential.
 
 
 ## 🌐 Socials:
